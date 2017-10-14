@@ -1,0 +1,14 @@
+
+*{
+  font-family: Helvetica;
+  text-align : center;
+}
+
+h1 {
+  font-size: 18px;
+}
+
+p {
+  font-size: 12px;
+  font-weight: 500;
+}
